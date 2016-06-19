@@ -12,9 +12,8 @@ How-to
 
 4. Run `python MemoryPuzzle.py` from the repo's directory
 
-5. use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
-  (Note: Install pyGame for same version python as above)
+  (Note: Install pygame for same version python as above)
 
   (For x64 windows, get exe [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame))
 
